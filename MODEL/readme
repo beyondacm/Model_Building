@@ -1,13 +1,14 @@
 SVM Model :
 	
-	SVM_01 : build with raw_data & similar_data 
-			 < positive01 - positive05 >
-			 < negative01 - negative05 >
+	SVM_01 :  < positive01 - positive14 >
+			  < negative01 - negative14 >
 	
-	SVM_02 : build with raw_data & similar_data & non_match_data
-			 < positive01 - positive08 >
-			 < negative01 - negative08 >
+	SVM_02 :  < positive01 - positive08 >
+			  < negative01 - negative08 >
 	
+	SVM_03 :  < positive01 >
+
+
 
 MODEL :
 
